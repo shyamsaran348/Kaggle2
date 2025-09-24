@@ -1,4 +1,10 @@
-pandas
-numpy
+torch              # install the appropriate wheel by following https://pytorch.org/
+transformers>=4.35
+datasets>=2.13
 scikit-learn
-xgboost
+optuna
+accelerate
+evaluate
+numpy
+pandas
+tqdm
